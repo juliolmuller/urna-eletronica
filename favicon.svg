@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Urna Eletrônica 3D</title>
+  <rect x="2" y="2" width="60" height="60" rx="13" fill="#009c3b"/>
+  <path d="M32 11 53 32 32 53 11 32Z" fill="#ffdf00"/>
+  <circle cx="32" cy="32" r="10.5" fill="#002776"/>
+  <path d="M26 30h12v5H26z" fill="#fff"/>
+  <rect x="28" y="31" width="4" height="3" fill="#1b1b1b"/>
+  <rect x="33" y="31" width="3" height="3" fill="#009c3b"/>
+</svg>
